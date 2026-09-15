@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pages on Shakiba Moshiri Blog</title>
+		<link>/page/</link>
+		<description>Recent content in Pages on Shakiba Moshiri Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Shakiba Moshiri</copyright>
+		
+		
+			<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>/page/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/page/about/</guid>
+				<description>&lt;p&gt;being born in 1968&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>/page/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/page/contact/</guid>
+				<description>&lt;h3 id=&#34;this-is-contact&#34;&gt;this is contact&lt;/h3&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

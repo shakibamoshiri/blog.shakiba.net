@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Shakiba Moshiri Blog</title>
+		<link>/post/</link>
+		<description>Recent content in Posts on Shakiba Moshiri Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Shakiba Moshiri</copyright>
+		
+		
+			<lastBuildDate>Mon, 09 Mar 2015 09:43:52 +0000</lastBuildDate>
+		
+			<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>hello world</title>
+				<link>/2015/03/09/hello-world/</link>
+				<pubDate>Mon, 09 Mar 2015 09:43:52 +0000</pubDate>
+				<guid>/2015/03/09/hello-world/</guid>
+				<description>&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;&#xA;&lt;p&gt;It is 2015 and I am learning C and C++. Building CLIs using C and C++. Really fast&#xA;and fun!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

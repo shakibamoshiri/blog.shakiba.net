@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Shakiba Moshiri Blog</title>
+		<link>/</link>
+		<description>Recent content on Shakiba Moshiri Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Shakiba Moshiri</copyright>
+		
+		
+			<lastBuildDate>Mon, 09 Mar 2015 09:43:52 +0000</lastBuildDate>
+		
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>hello world</title>
+				<link>/2015/03/09/hello-world/</link>
+				<pubDate>Mon, 09 Mar 2015 09:43:52 +0000</pubDate>
+				<guid>/2015/03/09/hello-world/</guid>
+				<description>&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;&#xA;&lt;p&gt;It is 2015 and I am learning C and C++. Building CLIs using C and C++. Really fast&#xA;and fun!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>/page/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/page/about/</guid>
+				<description>&lt;p&gt;being born in 1968&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>/page/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>/page/contact/</guid>
+				<description>&lt;h3 id=&#34;this-is-contact&#34;&gt;this is contact&lt;/h3&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
