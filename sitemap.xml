@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/project/hello/</loc>
+    <lastmod>2026-09-09T09:45:14+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2026-09-09T09:45:14+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-09-09T09:45:14+00:00</lastmod>
+  </url><url>
     <loc>/2015/03/09/hello-world/</loc>
     <lastmod>2015-03-09T09:43:52+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
-    <lastmod>2015-03-09T09:43:52+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2015-03-09T09:43:52+00:00</lastmod>
   </url><url>
     <loc>/page/about/</loc>
@@ -16,8 +22,6 @@
     <loc>/page/contact/</loc>
   </url><url>
     <loc>/page/</loc>
-  </url><url>
-    <loc>/project/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
